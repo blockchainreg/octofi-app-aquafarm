@@ -16,7 +16,7 @@
                                         <mask id="mask-2" fill="white">
                                             <use xlink:href="#path-1"></use>
                                         </mask>
-                                        <use id="Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                        <use id="Shape" fill="#050b17" fill-rule="nonzero" xlink:href="#path-1"></use>
                                         <rect id="▧-Color" fill="#734BE2" mask="url(#mask-2)" x="0" y="0" width="14" height="14"></rect>
                                     </g>
                                 </g>

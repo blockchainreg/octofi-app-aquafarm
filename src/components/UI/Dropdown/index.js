@@ -87,7 +87,7 @@ const DropdownItem = styled.button`
 	background-color: transparent;
 	font-weight: 500;
 	font-size: 1rem;
-	color: #232429;
+	color: #050b17;
 	white-space: nowrap;
 	padding: 0;
 

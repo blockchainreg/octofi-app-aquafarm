@@ -32,7 +32,7 @@ const mediaWidthTemplates: { [width in keyof typeof MEDIA_WIDTHS]: typeof css } 
 ) as any;
 
 const white = "#FFFFFF";
-const black = "#000000";
+const black = "#050b17";
 
 export function colors(darkMode?: boolean): Colors {
 	return {
@@ -47,24 +47,24 @@ export function colors(darkMode?: boolean): Colors {
 		text4: darkMode ? "rgba(255, 255, 255, 0.3)" : "#CACCD2",
 
 		// Backgrounds
-		bg1: darkMode ? "#232429" : white,
-		bg2: darkMode ? "#232429" : white,
-		bg3: darkMode ? "#3d4046" : white,
-		bg4: darkMode ? "#232429" : "#d4daf2",
+		bg1: darkMode ? "#050b17" : white,
+		bg2: darkMode ? "#050b17" : white,
+		bg3: darkMode ? "#050b17" : white,
+		bg4: darkMode ? "#050b17" : "#d4daf2",
 		bg5: darkMode ? `rgba(255, 255, 255, 0.1) ` : `rgba(0, 0, 0, 0.05)`,
 
 		// UI
 		borderColor: darkMode ? `rgba(255, 255, 255, 0.05) ` : `rgba(0, 0, 0, 0.05)`,
 		borderColor2: darkMode ? `rgba(255, 255, 255, 0.15) ` : `rgba(0, 0, 0, 0.15)`,
 		bodyBg: darkMode
-			? "linear-gradient(201.32deg, #222429 -48.82%, #232429 51.35%)"
+			? "linear-gradient(201.32deg, #050b17 -48.82%, #050b17 51.35%)"
 			: "linear-gradient(201.32deg, #fff -48.82%, #fff 51.35%)",
 		splashBG: darkMode
-			? "linear-gradient(201.32deg, #4E5780 -48.82%, #232429 51.35%)"
+			? "linear-gradient(201.32deg, #4E5780 -48.82%, #050b17 51.35%)"
 			: "linear-gradient(201.32deg, #d4daf2 -48.82%, #fff 51.35%)",
 		backdrop: "rgba(33, 36, 41, 0.5)",
-		modalBG: darkMode ? "#272a31" : "#F3F5FD",
-		advancedBG: darkMode ? "#232429" : white,
+		modalBG: darkMode ? "#000000" : "#F3F5FD",
+		advancedBG: darkMode ? "#050b17" : white,
 		warning: "#F3BA2F",
 		danger: "#EB6B6B",
 		dangerLight: "rgba(235, 107, 107, 0.15)",
