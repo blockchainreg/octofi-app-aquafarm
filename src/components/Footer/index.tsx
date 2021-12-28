@@ -7,7 +7,7 @@ const Footer = () => {
 		<Styled.Footer className="d-flex flex-column align-items-center justify-content-center">
 			<Socials />
 			<Styled.CopyRight className="mt-3">
-				<Trans i18nKey={"app.copyright"} values={{ company: "OctoFi" }}>
+				<Trans i18nKey={"app.copyright"} values={{ company: "Hazlor" }}>
 					Decentralized Finance Tentacles
 				</Trans>
 			</Styled.CopyRight>

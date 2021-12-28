@@ -14,7 +14,7 @@ const Hero = () => {
 	return (
 		<Styled.Hero className="row section d-flex">
 			<Styled.ConceptCol xs={12}>
-				<Styled.Image1 src={Hero1} alt={"OctoFi"} draggable={false} />
+				<Styled.Image1 src={Hero1} alt={"Hazlor"} draggable={false} />
 			</Styled.ConceptCol>
 
 			<Col xs={12} className={"d-flex align-items-center justify-content-center flex-column text-center"}>

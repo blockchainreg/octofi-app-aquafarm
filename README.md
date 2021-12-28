@@ -1,4 +1,4 @@
-# OctoFi dApp
+# Hazlor dApp
 
 <p>
   <a href="">
@@ -12,9 +12,9 @@
   </a>
 </p>
 
-<p>✨ <strong>OctoFi dApp</strong> is a dashboard for tracking your DeFi portfolio, finding new investment opportunities, buy / sell directly and wrap your tentacles around a sea of gains. We built this interface with our mission in mind, creating something simple to use and adding our salt & pepper to the DeFi revolution ✨</p>
+<p>✨ <strong>Hazlor dApp</strong> is a dashboard for tracking your DeFi portfolio, finding new investment opportunities, buy / sell directly and wrap your tentacles around a sea of gains. We built this interface with our mission in mind, creating something simple to use and adding our salt & pepper to the DeFi revolution ✨</p>
 
-[Launch OctoFi dApp][dapp]
+[Launch Hazlor dApp][dapp]
 
 ## Features
 * 🔩 <strong>Simple: </strong> Even a shrimp understands
@@ -29,7 +29,7 @@
 
 ## Community & Feedback
 
-[OctoFi Community][den]
+[Hazlor Community][den]
 
 ## Changelog
 
@@ -139,13 +139,13 @@ project.
 
 [//]: # (Make sure to update these URL links)
 
-[organization]: https://github.com/OctoFi
-[overview]: https://github.com/orgs/OctoFi/projects/1
-[priority]: https://github.com/orgs/OctoFi/projects/2
-[tags]: https://github.com/OctoFi/octofi-app-aquafarm/tags
-[releases]: https://github.com/OctoFi/octofi-app-aquafarm/releases
-[contribs]: https://github.com/OctoFi/octofi-app-aquafarm/contributors
-[milestones]: https://github.com/OctoFi/octofi-app-aquafarm/milestones
+[organization]: https://github.com/Hazlor
+[overview]: https://github.com/orgs/Hazlor/projects/1
+[priority]: https://github.com/orgs/Hazlor/projects/2
+[tags]: https://github.com/Hazlor/octofi-app-aquafarm/tags
+[releases]: https://github.com/Hazlor/octofi-app-aquafarm/releases
+[contribs]: https://github.com/Hazlor/octofi-app-aquafarm/contributors
+[milestones]: https://github.com/Hazlor/octofi-app-aquafarm/milestones
 [CONTRIBUTING]: CONTRIBUTING.md
 [dapp]: https://app.octo.fi
 [den]: https://den.octo.fi/t/feedback

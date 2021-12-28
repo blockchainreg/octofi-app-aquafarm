@@ -2,7 +2,7 @@
 
 ### Welcome Frentacle!
 
-First off, thank you for considering contributing to OctoFi. It's people like you that make OctoFi such a great community.
+First off, thank you for considering contributing to Hazlor. It's people like you that make Hazlor such a great community.
 
 ### Tentacles unite!
 
@@ -10,11 +10,11 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ### We're looking for contributions of all kinds
 
-OctoFi is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into OctoFi itself.
+Hazlor is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into Hazlor itself.
 
 ### Support questions
 
-Please, don't use the issue tracker for this. The issue tracker is a tool to address bugs and feature requests in OctoFi dApp itself. Use the [Den Help Center](https://den.octo.fi/t/support).
+Please, don't use the issue tracker for this. The issue tracker is a tool to address bugs and feature requests in Hazlor dApp itself. Use the [Den Help Center](https://den.octo.fi/t/support).
 
 # Ground Rules
 
@@ -26,7 +26,7 @@ Responsibilities
 
 # Your First Contribution
 
-Unsure where to begin contributing to OctoFi? You can start by looking through the good-first-issue and help-wanted issues:
+Unsure where to begin contributing to Hazlor? You can start by looking through the good-first-issue and help-wanted issues:
 * Good first issue - issues which should only require a few lines of code, and a test or two.
 * Help wanted - issues which should be a bit more involved than good-first-issue issues.
 
@@ -55,7 +55,7 @@ For something that is bigger than a one or two line fix:
 
 # How to report a bug
 
-Create a Bug Report in [Issues](https://github.com/OctoFi/octofi-app-aquafarm/issues).
+Create a Bug Report in [Issues](https://github.com/Hazlor/octofi-app-aquafarm/issues).
 
 If you find a security vulnerability, do NOT open an issue. Email hello@octo.fi instead.
 In order to determine whether you are dealing with a security issue, ask yourself these two questions:
@@ -66,9 +66,9 @@ If the answer to either of those two questions are "yes", then you're probably d
 
 # How to suggest a feature or enhancement
 
-Create a Feature Request in [Issues](https://github.com/OctoFi/octofi-app-aquafarm/issues).
+Create a Feature Request in [Issues](https://github.com/Hazlor/octofi-app-aquafarm/issues).
 
-If you find yourself wishing for a feature that doesn't exist in OctoFi dApp, you are probably not alone. There are bound to be others out there with similar needs. Many of the features that OctoFi dApp has today have been added because our users saw the need. Create a Feature Request which describes the feature you would like to see, why you need it, and how it should work.
+If you find yourself wishing for a feature that doesn't exist in Hazlor dApp, you are probably not alone. There are bound to be others out there with similar needs. Many of the features that Hazlor dApp has today have been added because our users saw the need. Create a Feature Request which describes the feature you would like to see, why you need it, and how it should work.
 
 # Code review process
 
@@ -77,4 +77,4 @@ After feedback has been given we expect responses within two weeks. After two we
 
 # Community
 
-You can chat with the community and the Octagon in the [Den](https://den.octo.fi/) or on [Telegram](https://t.me/OctoFi).
+You can chat with the community and the Octagon in the [Den](https://den.octo.fi/) or on [Telegram](https://t.me/Hazlor).

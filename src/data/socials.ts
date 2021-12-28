@@ -13,7 +13,7 @@ export const socials: Array<SocialLink> = [
     {
         name: "Telegram",
         image: Telegram,
-        url: "https://t.me/OctoFi",
+        url: "https://t.me/Hazlor",
     },
     {
         name: "Youtube",

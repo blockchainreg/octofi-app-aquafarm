@@ -861,7 +861,7 @@ const NewLaunchpad = props => {
                                                 />
                                                 <Row className={'mt-5 custom-row'}>
                                                     <Col xs={12} md={6} lg={4} className={'d-flex flex-column'}>
-                                                        <InnerCardLabel>OctoFi Fee</InnerCardLabel>
+                                                        <InnerCardLabel>Hazlor Fee</InnerCardLabel>
                                                         <InnerCard>{predictionParameters?.baseFee} {baseToken?.symbol}</InnerCard>
                                                     </Col>
                                                     <Col xs={12} md={6} lg={4} className={'d-flex flex-column'}>
@@ -873,7 +873,7 @@ const NewLaunchpad = props => {
                                                         <InnerCard>{predictionParameters?.yourBaseToken} {baseToken?.symbol}</InnerCard>
                                                     </Col>
                                                     <Col xs={12} md={6} lg={4} className={'d-flex flex-column'}>
-                                                        <InnerCardLabel>OctoFi Fee</InnerCardLabel>
+                                                        <InnerCardLabel>Hazlor Fee</InnerCardLabel>
                                                         <InnerCard>{predictionParameters?.tokenFee} {selectedToken?.symbol}</InnerCard>
                                                     </Col>
                                                     <Col xs={12} md={6} lg={4} className={'d-flex flex-column'}>
